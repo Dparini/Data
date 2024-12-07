@@ -8,7 +8,3 @@ and activate it with
 ```
 source .venv/bin/activate
 ```
-Now you can install the required packages
-```
-pip3 install -r requirements.txt
-```
