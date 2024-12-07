@@ -1,4 +1,4 @@
-# Data Science Homework
+#Analyzing Economic and Market Factors Using Robust Statistical Models
 
 Create python virtual environment into a local folder `.venv`
 ```
