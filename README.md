@@ -1,4 +1,4 @@
-# **Analyzing Economic and Market Factors Using Robust Statistical Models**
+# **Market Dynamics in European Equity Indices: A Comprehensive Analysis of Small-Cap and Large-Cap Index correlation under Varying Macroeconomic Conditions**
 
 
 
